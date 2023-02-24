@@ -31,3 +31,8 @@ You may need to run the identified commented out section at the top of the code 
 6) Multiple queries can be run. Or, submit `q` to quit the execution.
 
 As an aside: There is a bug in JupyterLab (perhaps Notebook as well) such that if a displayed link ends in a closing parentheses, the closing parentheses will be displayed but will not be part of the actual clickable displayed link resulting in an incorrect url with the missing closing parentheses.
+
+
+#### Example of the output and execution:
+
+![image](https://user-images.githubusercontent.com/125444385/221124668-40c4a1c4-2491-4b9c-bf8b-dbb1ee87aa1b.png)
