@@ -1,12 +1,6 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Sep 22 23:44:31 2022
-
-@author: Shane McBryde
-"""
 # ATTENTION! 
 # The following code may need to be run once before using this module.
-# If needed, uncomment the code below, run cell a single time, and then comment out again.
+# If needed, uncomment the code below, run a single time, and then comment out again.
 
 # import nltk
 # nltk.download('stopwords')
